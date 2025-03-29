@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://github.com/Logon2390/Logon2390/blob/main/banner.png"  />
-</div>
+![Portrait](https://github.com/Logon2390/Logon2390/blob/main/banner.png)
 
 ###
 
