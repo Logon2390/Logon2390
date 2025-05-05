@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Welcome to my profile! 🍃<br>I'm Jorge Luis Lopez from Costa Rica<br><br>- 🔭 I’m working as a <strong>Frontend Developer.</strong><br>- ✨ I'm currently learning <strong>Redux.</strong><br>- 💻 In my free time I like <strong>programming</strong> and make <strong>digital art.</strong></p>
+<p align="left">Welcome to my profile! 🍃<br>I'm Jorge Luis Lopez from Costa Rica<br><br>- 🔭 Frontend enthusiast<br>- ✨ I'm currently learning <strong>Redux.</strong><br>- 💻 In my free time I like <strong>programming</strong> and make <strong>digital art.</strong></p>
 
 ###
 
