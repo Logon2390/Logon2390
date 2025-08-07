@@ -70,7 +70,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logon2390&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="320" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Logon2390&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
