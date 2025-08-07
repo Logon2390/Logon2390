@@ -2,18 +2,13 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+![Portrait](https://github.com/Logon2390/Logon2390/blob/main/banner.png)
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jorge-luis-lopez-gonzalez-86ab2a284/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Logon_23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/206242992279912449" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
@@ -74,7 +69,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Logon2390&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logon2390&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="220" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Logon2390&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
