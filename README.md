@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jorge-luis-lopez-gonzalez-86ab2a284/" target="_blank">
+  <a href="https://www.linkedin.com/in/jorgelopez23/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/206242992279912449" target="_blank">
@@ -68,7 +68,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Logon2390&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="320" alt="languages graph"  />
 </div>
 
